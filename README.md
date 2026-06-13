@@ -3,7 +3,7 @@
 ## Live Demo
 
 Streamlit Dashboard:
-https://your-app-name.streamlit.app
+https://iot-air-quality-pollution-monitoring-dashboard-cft5yxk6zwjs9tc.streamlit.app/
 
 ## 📌 Overview
 
