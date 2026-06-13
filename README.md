@@ -23,6 +23,10 @@ This project provides a low-cost IoT solution capable of:
 * Visualizing trends through dashboards
 
 ---
+## Live Demo
+
+Streamlit Dashboard:
+https://your-app-name.streamlit.app
 
 # 🚀 Features
 
