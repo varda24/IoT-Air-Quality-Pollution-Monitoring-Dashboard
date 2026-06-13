@@ -1,5 +1,10 @@
 # 🌍 IoT Air Quality & Pollution Monitoring Dashboard
 
+## Live Demo
+
+Streamlit Dashboard:
+https://your-app-name.streamlit.app
+
 ## 📌 Overview
 
 The **IoT Air Quality & Pollution Monitoring Dashboard** is a real-time environmental monitoring system developed using **ESP32**, **DHT22**, **MQ135 Simulation**, **ThingSpeak**, and **Streamlit**.
@@ -23,11 +28,6 @@ This project provides a low-cost IoT solution capable of:
 * Visualizing trends through dashboards
 
 ---
-## Live Demo
-
-Streamlit Dashboard:
-https://your-app-name.streamlit.app
-
 # 🚀 Features
 
 ### Environmental Monitoring
